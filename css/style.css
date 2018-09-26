@@ -1,0 +1,47 @@
+#idnumber{
+	/*border: 1px solid black;*/
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.selection{
+	margin-top: 15%;	
+	margin-left: 35%;
+}
+.temp{
+	padding-top: 25px;
+	padding-bottom: 25px;
+	margin-left: 5%;
+}
+.final{
+	margin-left: 5%;
+	margin-right: 5%;
+}
+.mainbuttons{
+	background-color: rgba(255, 194, 194, 1);
+}
+#finalselect{
+	margin-top: 50%;
+	margin-left: 35%;
+
+}
+li{
+	text-align: center;
+}
+table.table-bordered{
+	border: 3px solid black;
+}
+table.table-bordered > thead > tr > th{
+    border:2px solid black;
+}
+table.table-bordered > tbody > tr > td{
+    border:2px solid black;
+}
+td{
+	width: 100px;
+	height: 100px;
+	background-color: rgba(181, 255, 168, 1);
+}
+th{
+	width: 100px;
+	background-color: rgba(246, 255, 168, 1);
+}
